@@ -1,4 +1,16 @@
 <resources>
     <string name="app_name">BlaBlaWild</string>
     <string name="button">Search an itinerary</string>
+    <string name="search_text">Search</string>
+    <string name="departure">Departure</string>
+    <string name="destination">Destination</string>
+    <string name="date">Date</string>
+    <string name="textDp">Departure</string>
+    <string name="textName">Name</string>
+    <string name="textDate">12/07/1998</string>
+    <string name="buttonSearch">Search</string>
+    <string name="labelSearch">Search</string>
+    <string name="labelList"></string>
+
+
 </resources>
