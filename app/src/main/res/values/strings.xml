@@ -1,4 +1,6 @@
 <resources>
+
+
     <string name="app_name">BlaBlaWild</string>
     <string name="button">Search an itinerary</string>
     <string name="search_text">Search</string>
@@ -12,5 +14,10 @@
     <string name="labelSearch">Search</string>
     <string name="labelList"></string>
 
+    <!--trip model-->
+    <string name="date_trip">Date</string>
+    <string name="firstname_trip">Firstname</string>
+    <string name="lastname_trip">Lastname</string>
+    <string name="price_date">Price</string>
 
 </resources>

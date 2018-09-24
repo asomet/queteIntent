@@ -23,8 +23,8 @@ public class ItinerarySearchActivity extends AppCompatActivity {
       public void updateLabel() {
         String myFormat = "MM/dd/yy"; //In which you need put here
         SimpleDateFormat sdf = new SimpleDateFormat(myFormat, Locale.US);
-          Calendar myCalendar = Calendar.getInstance();
-          EditText edittext = findViewById(R.id.TextDate);
+        Calendar myCalendar = Calendar.getInstance();
+        EditText edittext = findViewById(R.id.TextDate);
 
         edittext.setText(sdf.format(myCalendar.getTime()));
     }
