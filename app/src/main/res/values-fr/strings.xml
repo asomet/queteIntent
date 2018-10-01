@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BlaBlaWild</string>
+    <string name="button">Recherche d\'itinéraire</string>
+    <string name="search_text">Recherche</string>
+    <string name="departure">Départ</string>
+    <string name="destination">Destination</string>
+    <string name="date">Date</string>
+    <string name="textDp">Départ</string>
+    <string name="textName">Nom</string>
+    <string name="buttonSearch">Recherche</string>
+    <string name="labelSearch">Recherche</string>
+    <string name="date_trip">Date</string>
+    <string name="firstname_trip">Prénom</string>
+    <string name="lastname_trip">Nom de famille</string>
+    <string name="price_date">Prix</string>
+</resources>
